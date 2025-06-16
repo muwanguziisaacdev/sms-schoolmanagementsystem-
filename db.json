@@ -1,0 +1,313 @@
+{
+  "students": [
+    {
+      "id": "d1f5a8b9-3c7e-4b9d-b74b-0b9a9b36c6e4",
+      "firstName": "Amina",
+      "middleName": "Nabirye",
+      "lastName": "Kato",
+      "email": "amina.kato@example.com",
+      "contact": "0772345678",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Kampala",
+        "town": "Makindye",
+        "village": "Kansanga"
+      },
+      "parentDetails": {
+        "firstName": "John",
+        "middleName": "Peter",
+        "lastName": "Kato",
+        "dob": "1975-06-15",
+        "grade": "",
+        "email": "john.kato@example.com",
+        "contact": "0701234567",
+        "parentAddress": "Namilyango",
+        "relationship": "Father"
+      },
+      "dob": "2006-04-12",
+      "grade": "S6",
+      "gender": "Female"
+    },
+    {
+      "id": "b6e3f2a1-8d3e-4c64-9d8b-ef3d13a283ad",
+      "firstName": "Michael",
+      "middleName": "Paul",
+      "lastName": "Okello",
+      "email": "michael.okello@example.com",
+      "contact": "0759988776",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Gulu",
+        "town": "Pece",
+        "village": "Pece Pawel"
+      },
+      "parentDetails": {
+        "firstName": "Grace",
+        "middleName": "Akello",
+        "lastName": "Okello",
+        "dob": "1980-11-23",
+        "grade": "",
+        "email": "grace.okello@example.com",
+        "contact": "0788992211",
+        "parentAddress": "Pece Pawel",
+        "relationship": "Mother"
+      },
+      "dob": "2009-08-19",
+      "grade": "S5",
+      "gender": "Male"
+    },
+    {
+      "id": "f4a7b2c9-d5e4-4e7a-b6b5-6de4a798e5f3",
+      "firstName": "Joseph",
+      "middleName": "Moses",
+      "lastName": "Kaggwa",
+      "email": "joseph.kaggwa@example.com",
+      "contact": "0785674321",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Wakiso",
+        "town": "Nansana",
+        "village": "Nansana West"
+      },
+      "parentDetails": {
+        "firstName": "David",
+        "middleName": "Katongole",
+        "lastName": "Kaggwa",
+        "dob": "1972-04-05",
+        "grade": "",
+        "email": "david.kaggwa@example.com",
+        "contact": "0755432100",
+        "parentAddress": "Nansana West",
+        "relationship": "Father"
+      },
+      "dob": "2007-11-01",
+      "grade": "S2",
+      "gender": "Male"
+    },
+    {
+      "id": "a9f1c3b7-e9d6-4a6e-a4b8-9f3e76a1b4cd",
+      "firstName": "Juliet",
+      "middleName": "Namugga",
+      "lastName": "Nansubuga",
+      "email": "juliet.nansubuga@example.com",
+      "contact": "0767895432",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Masaka",
+        "town": "Kyabakuza",
+        "village": "Kyabakuza"
+      },
+      "parentDetails": {
+        "firstName": "Sarah",
+        "middleName": "Namatovu",
+        "lastName": "Nansubuga",
+        "dob": "1982-09-12",
+        "grade": "",
+        "email": "sarah.nansubuga@example.com",
+        "contact": "0706655443",
+        "parentAddress": "Kyabakuza",
+        "relationship": "Mother"
+      },
+      "dob": "2010-02-25",
+      "grade": "S1",
+      "gender": "Female"
+    },
+    {
+      "id": "e1c9b4a6-6f3e-4b89-b3e2-84c92d7b67ef",
+      "firstName": "Samuel",
+      "middleName": "Kato",
+      "lastName": "Lumu",
+      "email": "samuel.lumu@example.com",
+      "contact": "0743219876",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Jinja",
+        "town": "Walukuba",
+        "village": "Walukuba West"
+      },
+      "parentDetails": {
+        "firstName": "Henry",
+        "middleName": "Mutebi",
+        "lastName": "Lumu",
+        "dob": "1978-03-10",
+        "grade": "",
+        "email": "henry.lumu@example.com",
+        "contact": "0776655443",
+        "parentAddress": "Walukuba West",
+        "relationship": "Father"
+      },
+      "dob": "2008-07-17",
+      "grade": "S3",
+      "gender": "Male"
+    },
+    {
+      "id": "a1f9c870-4e1b-4b89-bc88-0f5e093bca11",
+      "firstName": "John",
+      "middleName": "Paul",
+      "lastName": "Kato",
+      "email": "john.kato@gmail.com",
+      "contact": "0789112233",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Kampala",
+        "town": "Ntinda",
+        "village": "Ntinda"
+      },
+      "parentDetails": {
+        "firstName": "Robert",
+        "middleName": "",
+        "lastName": "Kato",
+        "dob": "1970-05-10",
+        "grade": "",
+        "email": "robert.kato@gmail.com",
+        "contact": "0772112233",
+        "parentAddress": "Ntinda",
+        "relationship": "Father"
+      },
+      "dob": "2005-06-15",
+      "grade": "P7",
+      "gender": "Male"
+    },
+    {
+      "id": "b2f0e980-31ab-4c23-9dc9-7a3a593f1d12",
+      "firstName": "Grace",
+      "middleName": "Nam",
+      "lastName": "Nansubuga",
+      "email": "grace.nansubuga@gmail.com",
+      "contact": "0790113344",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Wakiso",
+        "town": "Kira",
+        "village": "Bulindo"
+      },
+      "parentDetails": {
+        "firstName": "Sarah",
+        "middleName": "Namatovu",
+        "lastName": "Nansubuga",
+        "dob": "1980-08-20",
+        "grade": "",
+        "email": "sarah.nansubuga@gmail.com",
+        "contact": "0756113344",
+        "parentAddress": "Bulindo",
+        "relationship": "Mother"
+      },
+      "dob": "2007-11-20",
+      "grade": "S1",
+      "gender": "Female"
+    },
+    {
+      "id": "c3e1f092-7fb4-44f2-9481-0b571d5d7233",
+      "firstName": "David",
+      "middleName": "M",
+      "lastName": "Ssewanyana",
+      "email": "david.ssewanyana@gmail.com",
+      "contact": "0788224455",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Mukono",
+        "town": "Namanve",
+        "village": "Namanve"
+      },
+      "parentDetails": {
+        "firstName": "Henry",
+        "middleName": "",
+        "lastName": "Ssewanyana",
+        "dob": "1975-03-18",
+        "grade": "",
+        "email": "henry.ssewanyana@gmail.com",
+        "contact": "0761224455",
+        "parentAddress": "Namanve",
+        "relationship": "Father"
+      },
+      "dob": "2008-02-25",
+      "grade": "P5",
+      "gender": "Male"
+    },
+    {
+      "id": "d4g2g103-3cab-4e8e-9d8e-0f7f2c8b7d99",
+      "firstName": "Ruth",
+      "middleName": "A",
+      "lastName": "Nakabugo",
+      "email": "ruth.nakabugo@gmail.com",
+      "contact": "0709335566",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Jinja",
+        "town": "Bugembe",
+        "village": "Bugembe"
+      },
+      "parentDetails": {
+        "firstName": "Margaret",
+        "middleName": "N.",
+        "lastName": "Nakabugo",
+        "dob": "1983-01-12",
+        "grade": "",
+        "email": "margaret.nakabugo@gmail.com",
+        "contact": "0775335566",
+        "parentAddress": "Bugembe",
+        "relationship": "Mother"
+      },
+      "dob": "2006-10-08",
+      "grade": "S2",
+      "gender": "Female"
+    },
+    {
+      "id": "e5h3h114-1dab-4f33-9e7e-0c6e1a7b6f00",
+      "firstName": "Brian",
+      "middleName": "",
+      "lastName": "Mugerwa",
+      "email": "brian.mugerwa@gmail.com",
+      "contact": "0759446677",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Masaka",
+        "town": "Nyendo",
+        "village": "Nyendo"
+      },
+      "parentDetails": {
+        "firstName": "James",
+        "middleName": "",
+        "lastName": "Mugerwa",
+        "dob": "1978-09-25",
+        "grade": "",
+        "email": "james.mugerwa@gmail.com",
+        "contact": "0782446677",
+        "parentAddress": "Nyendo",
+        "relationship": "Father"
+      },
+      "dob": "2009-04-12",
+      "grade": "P4",
+      "gender": "Male"
+    },
+    {
+      "id": "e5h3h114-1dab-4f33-9ee-0c6e1a7b6f00",
+      "firstName": "Brian",
+      "middleName": "",
+      "lastName": "Mugerwa",
+      "email": "brian.mugerwa@gmail.com",
+      "contact": "0759446677",
+      "studentaddress": {
+        "nationality": "Ugandan",
+        "district": "Masaka",
+        "town": "Nyendo",
+        "village": "Nyendo"
+      },
+      "parentDetails": {
+        "firstName": "James",
+        "middleName": "",
+        "lastName": "Mugerwa",
+        "dob": "1978-09-25",
+        "grade": "",
+        "email": "james.mugerwa@gmail.com",
+        "contact": "0782446677",
+        "parentAddress": "Nyendo",
+        "relationship": "Father"
+      },
+      "dob": "2009-04-12",
+      "grade": "P4",
+      "gender": "Male"
+    }
+  ],
+  "teachers": []
+}
